@@ -1,3 +1,4 @@
-# First file
+# Gollum Wiki Home Page
 
-Just a test file
+
+Welcome!
