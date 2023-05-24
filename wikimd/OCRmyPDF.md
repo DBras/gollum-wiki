@@ -1,9 +1,7 @@
-# OCRmyPDF
-
 A tool for reading the text from images in PDF's, and then laying over the text,
 making the files searchable.
 
-## Installation
+# Installation
 
 ```bash
 python -m venv venv

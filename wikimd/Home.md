@@ -1,5 +1,3 @@
-# DBras Gollum Wiki
-
-## Bash/Linux tools
+# Bash/Linux tools
 
 [OCRmyPDF](OCRmyPDF.md) 
