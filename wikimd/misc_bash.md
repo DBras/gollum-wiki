@@ -8,3 +8,11 @@ title: Miscellaneous Bash tools
 zip -r archivename.zip directory_name 
 unzip archivename.zip
 ```
+
+# Ranger
+
+```bash
+:search
+:rename
+:bulkrename 
+```
