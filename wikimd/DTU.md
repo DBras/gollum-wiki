@@ -4,21 +4,21 @@ title: DTU
 
 # E21
 
-## 01005
+### 01005
 
 [Course material](dtu/01005_material.zip) 
 
-## 02101
+### 02101
 
 [Course material](dtu/02101_material.zip) 
 
-## 34302
+### 34302
 
 [Course material](dtu/34302_material.zip) 
 
 # E22
 
-## 01017
+### 01017
 
 [Course material](dtu/01017_material.zip) 
 
@@ -26,7 +26,7 @@ title: DTU
 
 [Tree-proof generator](dtu/01017_tpg.zip) 
 
-## 02402
+### 02402
 
 [Course material](dtu/02402_material.zip) 
 
@@ -34,37 +34,37 @@ title: DTU
 
 [Projects](dtu/02402_projects.zip) 
 
-## 10020
+### 10020
 
-## 34331
+### 34331
 
-## 34334
+### 34334
 
-## 34338
+### 34338
 
 # F22
 
-## 01005
+### 01005
 
-## 02105
+### 02105
 
-## 02161
+### 02161
 
-## 34220
+### 34220
 
-## 34333
+### 34333
 
 # F23
 
-## 10020
+### 10020
 
-## 34210
+### 34210
 
-## 34229
+### 34229
 
-## 34359
+### 34359
 
-## ML
+### ML
 
 # latex
 
