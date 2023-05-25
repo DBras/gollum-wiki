@@ -42,16 +42,16 @@ Todo: Assignments
 Todo: Assignments
 
 [Course material](dtu/01017_material.zip), 
-[Hand-in assignments](dtu/01017_assignments.zip), 
-[Tree-proof generator](dtu/01017_tpg.zip) 
+[hand-in assignments](dtu/01017_assignments.zip), 
+[tree-proof generator](dtu/01017_tpg.zip) 
 
 ### 02402 Introduction to Statistics
 
 [Course material](dtu/02402_material.zip), 
-[Notes](dtu/02402_notes.pdf), 
-[Project 1](linkdtu/02402_project1.pdf), 
-[Project 2](linkdtu/02402_project2.pdf), 
-[Project material](dtu/02402_projects.zip) 
+[notes](dtu/02402_notes.pdf), 
+[project 1](dtu/02402_project1.pdf), 
+[project 2](dtu/02402_project2.pdf), 
+[project material](dtu/02402_projects.zip) 
 
 ### 34331
 
