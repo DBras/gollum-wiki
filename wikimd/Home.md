@@ -9,9 +9,9 @@ title: Home
 
 # DTU
 
-- [E21](DTU.md#E21) 
-- [E22](DTU.md#E22) 
-- [F22](DTU.md#F22) 
-- [F23](DTU.md#F23) 
+- [E21](DTU.md#e21) 
+- [E22](DTU.md#e22) 
+- [F22](DTU.md#f22) 
+- [F23](DTU.md#f23) 
 - [LaTeX](DTU.md#latex) 
-- [Spring2022](DTU.md#Spring2022) 
+- [Spring2022](DTU.md#spring2022) 
