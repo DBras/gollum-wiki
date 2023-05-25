@@ -30,7 +30,7 @@ title: DTU
 
 [Course material](dtu/02402_material.zip) 
 
-[Notes](dtu/02402_notes.zip) 
+[Notes](dtu/02402_notes.pdf) 
 
 [Projects](dtu/02402_projects.zip) 
 
