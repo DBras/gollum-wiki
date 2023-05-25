@@ -1,5 +1,11 @@
+---
+title: OCRmyPDF
+---
+
 A tool for reading the text from images in PDF's, and then laying over the text,
 making the files searchable.
+
+[GitHub Repository](https://github.com/ocrmypdf/OCRmyPDF) 
 
 # Installation
 

@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Bash/Linux tools
 
 - [Miscellaneous commands & tools](misc_bash.md) 

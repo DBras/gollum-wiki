@@ -1,3 +1,7 @@
+---
+title: Miscellaneous Bash tools
+---
+
 # Zip & unzip
 
 ```bash
