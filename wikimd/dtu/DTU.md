@@ -125,7 +125,7 @@ This course also had a final report & presentation.
 
 ### ML
 
-# latex ( )
+# LaTeX ( )
 
 Todo: files
 
