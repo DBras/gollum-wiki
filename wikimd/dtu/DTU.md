@@ -125,11 +125,15 @@ This course also had a final report & presentation.
 
 ### ML
 
-# LaTeX ( )
+# LaTeX
 
-Todo: files
+- [Preamble](preamble) 
+- [Main file test](main) 
 
-[preamble](preamble) 
+A default folder structure can be initiated with the following command:
 
-main.tex,
-preamble.tex
+```bash
+alias beginlatex="mkdir img && cp ~/Dropbox/DTU/latex/preamble.tex . && cp
+~/Dropbox/DTU/latex/img/DTU.eps img/DTU.eps && echo -e \"%! TEX root =
+main.tex\n\n\" > main.tex && nvim main.tex"
+```
