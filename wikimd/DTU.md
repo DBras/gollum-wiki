@@ -2,6 +2,8 @@
 title: DTU
 ---
 
+[[_TOC_]]
+
 All material, assignments and tools for each course in order of when the course
 was taken.
 
