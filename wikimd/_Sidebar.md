@@ -1,15 +1,8 @@
 ---
-title: DTU
+title: ToC
 ---
 
-# Table of Contents
+# ToC
 
-- Bash & Linux tools
-    - Miscellaneous commands & tools
-    - OCRmyPDF
-- DTU
-    - E21
-    - F22
-    - E22
-    - F23
-    - LaTeX
+- [Bash & Linux tools](Home#bash-linux-tools)
+- [DTU](Home#DTU)
