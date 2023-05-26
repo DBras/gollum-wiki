@@ -7,7 +7,7 @@ title: DTU
 All material, assignments and tools for each course in order of when the course
 was taken.
 
-# E21 (semester 1)
+# E21
 
 ### 02101 - Introductory Programming
 
@@ -29,7 +29,7 @@ The hand-in exercises for this course are contained in the course material.
 Assignments: 
 [report - simulation exercise](dtu/34313_sim.pdf) 
 
-# F22 (semester 2)
+# F22
 
 ### 01005 - Advanced Engineering Mathematics 1
 
@@ -68,7 +68,7 @@ No relevant material. The only assignment was the exam project.
 [exam outlines](dtu/34333_outlines.pdf), 
 [exam keywords](dtu/34333_keywords.pdf)
 
-# E22 (semester 3)
+# E22
 
 ### 01017 - Discrete Mathematics
 
