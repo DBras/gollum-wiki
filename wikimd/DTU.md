@@ -2,6 +2,8 @@
 title: DTU
 ---
 
+[[_TOC_]]
+
 All material, assignments and tools for each course in order of when the course
 was taken.
 
@@ -80,7 +82,7 @@ Assignments:
 [hjem3](dtu/01017_hjem3.pdf), 
 [hjem4](dtu/01017_hjem4.pdf)
 
-### - 02402 Introduction to Statistics
+### 02402 - Introduction to Statistics
 
 Material: 
 [Course material](dtu/02402_material.zip), 
