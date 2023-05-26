@@ -2,4 +2,4 @@
 title: DTU
 ---
 
-[[include:dtu/preamble.tex]]
+[[include:preamble.tex]]
