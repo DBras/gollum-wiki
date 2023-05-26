@@ -66,7 +66,7 @@ No relevant material. The only assignment was the exam project.
 [exam outlines](dtu/34333_outlines.pdf), 
 [exam keywords](dtu/34333_keywords.pdf)
 
-# E22 ( )
+# E22 (semester 3)
 
 ### 01017 - Discrete Mathematics
 
@@ -82,17 +82,34 @@ Assignments:
 
 ### 02402 Introduction to Statistics
 
+Material: 
 [Course material](dtu/02402_material.zip), 
 [notes](dtu/02402_notes.pdf), 
-[project material](dtu/02402_projects.zip), 
+[project material](dtu/02402_projects.zip)
+
+Assignments: 
 [project 1](dtu/02402_project1.pdf), 
 [project 2](dtu/02402_project2.pdf)
 
-### 34331
+### 34331 - Digital Hardware Design for Communications
 
-### 34334
+[Course book](dtu/34331_book.pdf), 
+[exam project](dtu/34331_project.pdf) 
 
-### 34338
+### 34334 - Advanced Data Networks and Cyber Security
+
+[Notes](dtu/34334_notes.pdf)
+
+Assignments:
+[hjem1](dtu/34334_hjem1.pdf), 
+[hjem2](dtu/34334_hjem2.pdf), 
+[Routing lab report](dtu/34334_routing.pdf), 
+
+### 34338 - Telecommunication Programming Projects with Arduino
+
+[Exercises](dtu/34338_exercises.pdf)
+
+This course also had a final report & presentation.
 
 # F23 ( )
 
