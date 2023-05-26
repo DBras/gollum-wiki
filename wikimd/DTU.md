@@ -107,7 +107,7 @@ Assignments:
 [hjem2](dtu/34334_hjem2.pdf), 
 [Routing lab report](dtu/34334_routing.pdf), 
 
-### 34338 - Telecommunication Programming Projects with Arduino
+### 34338 - Telecommunication Programming Projects with Arduino (3W)
 
 [Exercises](dtu/34338_exercises.pdf)
 
