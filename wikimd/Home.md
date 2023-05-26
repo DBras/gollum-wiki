@@ -4,13 +4,17 @@ title: Home
 
 # Bash/Linux tools
 
-- [Miscellaneous commands & tools](misc_bash.md) 
-- [OCRmyPDF](OCRmyPDF.md) 
+- [Miscellaneous commands & tools](misc_bash) 
+- [OCRmyPDF](OCRmyPDF) 
 
-# [DTU](DTU.md)
+# [DTU](DTU)
 
-- [E21](DTU.md#e21) 
-- [E22](DTU.md#e22) 
-- [F22](DTU.md#f22) 
-- [F23](DTU.md#f23) 
-- [LaTeX](DTU.md#latex) 
+- [E21](DTU#e21) 
+- [E22](DTU#e22) 
+- [F22](DTU#f22) 
+- [F23](DTU#f23) 
+- [LaTeX](DTU#latex) 
+
+# Refile
+
+[[include:refile]] 
