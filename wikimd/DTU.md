@@ -5,16 +5,18 @@ title: DTU
 All material, assignments and tools for each course in order of when the course
 was taken.
 
-# E21
+# E21 (semester 1)
 
 ### 02101 - Introductory Programming
 
-[Course material](dtu/02101_material.zip),
+[Course material](dtu/02101_material.zip)
+
+Assignments: 
 [hjem1](dtu/02101_hjem1.pdf),
 [hjem2](dtu/02101_hjem2.pdf),
 [hjem3](dtu/02101_hjem3.pdf)
 
-### 34302 - Introduction to Cyber Technology
+### 34302 - Introduction to Cyber Technology (+3W)
 
 [Course material](dtu/34302_material.zip) 
 
@@ -22,9 +24,10 @@ The hand-in exercises for this course are contained in the course material.
 
 ### 34313 - Introduction to Data Communication Networks
 
-[Report - simulation exercise](dtu/34313_sim.pdf) 
+Assignments: 
+[report - simulation exercise](dtu/34313_sim.pdf) 
 
-# F22 ( )
+# F22 (semester 2)
 
 ### 01005 - Advanced Engineering Mathematics 1
 
@@ -39,13 +42,29 @@ Assignments:
 [hjem6](dtu/01005_hjem6.pdf), 
 [hjem7](dtu/01005_hjem7.pdf)
 
-### 02105
+### 02105 - Algorithms and Data Structures 1
 
-### 02161
+[Notes](dtu/02105_notes.pdf) 
 
-### 34220
+Assignments: 
+[handin 2 (Super Mario Run)](dtu/02105_handin2.pdf), 
+[handin 3 (Floor Plan)](dtu/02105_handin3.pdf)
 
-### 34333
+### 02161 - Software Engineering 1
+
+No relevant material. The only assignment was the exam project.
+
+### 34220 - Coding in Communication Systems (3W)
+
+[Presentation](dtu/34220_presentation.pdf), 
+[exam project](dtu/34220_report.pdf)
+
+### 34333 - Technologies for Mobile Communication and IoT
+
+[Course material](dtu/34333_material.pdf), 
+[notes](dtu/34333_notes.pdf), 
+[exam outlines](dtu/34333_outlines.pdf), 
+[exam keywords](dtu/34333_keywords.pdf)
 
 # E22 ( )
 
