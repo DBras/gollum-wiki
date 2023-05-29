@@ -6,6 +6,7 @@ title: Home
 
 - [Miscellaneous commands & tools](linux/misc_bash) 
 - [OCRmyPDF](linux/OCRmyPDF) 
+- [yt-dlp](linux/yt-dlp) 
 
 # [DTU](dtu/DTU)
 
