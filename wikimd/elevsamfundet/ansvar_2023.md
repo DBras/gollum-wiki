@@ -1,0 +1,24 @@
+---
+title: Uddelte ansvarsområder i Elevsamfundet
+---
+
+- Velkomsttale er TBD
+- Legat:
+    - Steff har ansvar og spørger Mads
+    - Svende spørges d. 6. juni
+- Steff skal hente øllefanter
+- Mia skal få mailingliste fra årgang 2022
+    - Evt ved at gøre det rekursivt
+- Fredagsfejring med alkohol tager Luna
+- Radiokontakt: Daniel
+- Inventar: Henrik
+- Pynt: Mads spørges, så Steff
+- SoMe: Luna + Steff
+    - Også ansvar for at overtage en del af Louises rolle
+- Mia er lærerkontakt og skal spørge om 1 til dør, 2 garderobe, 2 opvask
+- Luna skal kontakte Madeleine
+- Christian ansvarlig for mad i weekenden
+- Mia + Skjold ansvarlige for indhentning/styring af serveringspersonale
+- Henrik borde, stole, garderobestativer
+- Bar+catering er Daniel
+- Christian velkomstdrink
