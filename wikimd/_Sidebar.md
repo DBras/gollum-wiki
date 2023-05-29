@@ -6,4 +6,5 @@ title: ToC
 
 - [Bash & Linux tools](/Home#bash-linux-tools)
 - [DTU](/Home#DTU)
+- [Elevsamfundet](/Home#elevsamfundet) 
 - [Refile](/Home#refile)
