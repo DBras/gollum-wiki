@@ -10,4 +10,5 @@ title: ToC
     - [Midlertidig ToDo](/elevsamfundet/index#midlertidig-todo) 
     - [A-Z og andre ToDo](/elevsamfundet/index#a-z-og-andre-todo) 
     - [Ansvarsområder](/elevsamfundet/index#ansvarsområder) 
+    - [Automatisk mailing](/elevsamfundet/index#automatisk-mailing) 
 - [Refile](/Home#refile)
