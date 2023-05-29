@@ -10,8 +10,8 @@ title: Home
 # [DTU](dtu/DTU)
 
 - [E21](dtu/DTU#e21) 
-- [E22](dtu/DTU#e22) 
 - [F22](dtu/DTU#f22) 
+- [E22](dtu/DTU#e22) 
 - [F23](dtu/DTU#f23) 
 - [LaTeX](dtu/DTU#latex) 
 
