@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<<GlobalTOC()>>
+<<Navigation()>>
 
 # Bash/Linux tools
 
