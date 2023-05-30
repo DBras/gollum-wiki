@@ -2,8 +2,6 @@
 title: Home
 ---
 
-<<NiceTOC()>>
-
 # Bash/Linux tools
 
 - [Miscellaneous commands & tools](linux/misc_bash) 

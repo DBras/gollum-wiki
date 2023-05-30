@@ -12,3 +12,7 @@ title: ToC
     - [Ansvarsområder](/elevsamfundet/index#ansvarsområder) 
     - [Automatisk mailing](/elevsamfundet/index#automatisk-mailing) 
 - [Refile](/Home#refile)
+
+# NiceToC
+
+<<NiceTOC()>>

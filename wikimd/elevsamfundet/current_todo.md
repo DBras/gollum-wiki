@@ -13,9 +13,9 @@ title: Midlertidig ToDo-liste i Elevsamfundet
     - [ ] Skal være oppe at køre før dimission (midt juni)
     - [ ] Der skal være ansøgningsskabelon til Elevsamfundet
 - [ ] Skriv til Christian om bar+mad
-- [ ] Karo+Henrik skal spørges om inventarliste
+- [x] Karo+Henrik skal spørges om inventarliste
     - [x] Karo
-    - [ ] Henrik
+    - [x] Henrik
 - [ ] Reminder om årsfest omkring start juni
 - [ ] Mads og Nels skal hives fat i
 - [ ] Rikke og Emil skal sende ansøgninger
