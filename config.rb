@@ -7,6 +7,77 @@
     # to require 'my_adapter':
     #Gollum::GIT_ADAPTER = "my"
   #end
+  module Gollum
+    class Macro
+      class NiceTOC < Gollum::Macro
+        def render
+          return if @wiki.pages.size.zero?
+  
+          content_tag("ul") {
+            wiki.map { |name, page| list_item(name, page) }.compact.join
+          }
+        end
+  
+        private
+  
+  			def add(subtree, filename_parts, gollum_page)
+  				head, *tail = filename_parts
+  				subtree[head] ||= {}
+  
+          if tail.empty?
+            subtree[head] = gollum_page
+          else
+  				  add(subtree[head], tail, gollum_page)
+          end
+  
+          subtree
+  			end
+  
+        def content_tag(html_tag_name, options = {}, &block)
+          tag = [html_tag_name]
+  
+          [:class, :href].each do |option|
+            tag << "#{option.to_s}=\"#{options[option]}\"" if options[option]
+          end
+  
+          content = ""
+          content += "<#{tag.compact.join(" ")}>"
+          content += (yield block).to_s.gsub(/\n/, "")
+          content += "</#{html_tag_name}>"
+          content
+        end
+  
+        def list_item(name, gollum_page)
+          if gollum_page.is_a?(::Gollum::Page)
+            return if @page.url_path == gollum_page.url_path
+  
+            content_tag("li") {
+              content_tag("a", href: gollum_page.url_path) {
+                gollum_page.metadata_title || gollum_page.name
+              }
+            }
+          else
+            content_tag("li") {
+              content_tag("span") { name } +
+                content_tag("ul") {
+                  gollum_page.map { |nom, page| list_item(nom, page) }.join
+                }
+            }
+          end
+        end
+  
+  			def wiki
+          @wiki.pages.reduce({}) { |tree, gollum_page|
+            add(
+              tree,
+              Pathname(gollum_page.path).each_filename.to_a,
+              gollum_page
+            )
+  				}
+  			end
+      end
+    end
+  end
 
   wiki_options = {
 
@@ -147,7 +218,7 @@
     #
     # Equivalent to --no-edit
 
-    #allow_editing: false,
+    allow_editing: false,
 
     #-----------------------------------------------------------------------------
     # Specify the subdirectory for all pages. If set, Gollum will only serve pages
@@ -272,74 +343,3 @@
 
   Precious::App.set(:wiki_options, wiki_options)
 
-module Gollum
-  class Macro
-    class NiceTOC < Gollum::Macro
-      def render
-        return if @wiki.pages.size.zero?
-
-        content_tag("ul") {
-          wiki.map { |name, page| list_item(name, page) }.compact.join
-        }
-      end
-
-      private
-
-			def add(subtree, filename_parts, gollum_page)
-				head, *tail = filename_parts
-				subtree[head] ||= {}
-
-        if tail.empty?
-          subtree[head] = gollum_page
-        else
-				  add(subtree[head], tail, gollum_page)
-        end
-
-        subtree
-			end
-
-      def content_tag(html_tag_name, options = {}, &block)
-        tag = [html_tag_name]
-
-        [:class, :href].each do |option|
-          tag << "#{option.to_s}=\"#{options[option]}\"" if options[option]
-        end
-
-        content = ""
-        content += "<#{tag.compact.join(" ")}>"
-        content += (yield block).to_s.gsub(/\n/, "")
-        content += "</#{html_tag_name}>"
-        content
-      end
-
-      def list_item(name, gollum_page)
-        if gollum_page.is_a?(::Gollum::Page)
-          return if @page.url_path == gollum_page.url_path
-
-          content_tag("li") {
-            content_tag("a", href: gollum_page.url_path) {
-              gollum_page.metadata_title || gollum_page.name
-            }
-          }
-        else
-          content_tag("li") {
-            content_tag("span") { name } +
-              content_tag("ul") {
-                gollum_page.map { |nom, page| list_item(nom, page) }.join
-              }
-          }
-        end
-      end
-
-			def wiki
-        @wiki.pages.reduce({}) { |tree, gollum_page|
-          add(
-            tree,
-            Pathname(gollum_page.path).each_filename.to_a,
-            gollum_page
-          )
-				}
-			end
-    end
-  end
-end
