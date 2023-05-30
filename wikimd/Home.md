@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<<Navigation()>>
+<<NiceTOC()>>
 
 # Bash/Linux tools
 
