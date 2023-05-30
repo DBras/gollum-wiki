@@ -4,16 +4,18 @@ title: Midlertidig ToDo-liste i Elevsamfundet
 
 # Opgaver
 
-- [ ] Få Christian til at rette vedtægter
+- [x] Få Christian til at rette vedtægter
 - [ ] Læg vedtægter op på "I went to..."
-- [ ] Mailingliste:
-    - [ ] Mailingliste fra Mia til Louise
-    - [ ] Louises mailingliste krypteres og gemmes i Dropbox
+- [x] Mailingliste:
+    - [x] Mailingliste fra Mia til Louise
+    - [x] Louises mailingliste krypteres og gemmes i Dropbox
 - [ ] Hjemmeside:
     - [ ] Skal være oppe at køre før dimission (midt juni)
     - [ ] Der skal være ansøgningsskabelon til Elevsamfundet
 - [ ] Skriv til Christian om bar+mad
 - [ ] Karo+Henrik skal spørges om inventarliste
+    - [x] Karo
+    - [ ] Henrik
 - [ ] Reminder om årsfest omkring start juni
 - [ ] Mads og Nels skal hives fat i
 - [ ] Rikke og Emil skal sende ansøgninger
