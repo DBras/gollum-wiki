@@ -5,6 +5,7 @@ title: Home
 # Bash/Linux tools
 
 - [Miscellaneous commands & tools](linux/misc_bash) 
+- [Rewritten in Rust](linux/rust_replacements) 
 - [OCRmyPDF](linux/OCRmyPDF) 
 - [yt-dlp](linux/yt-dlp) 
 
