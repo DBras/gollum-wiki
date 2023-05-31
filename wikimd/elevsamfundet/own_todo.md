@@ -60,6 +60,7 @@ title: Permanent ToDo-liste
 - Champagne købes forbi baren - drikkes kl24
 - Genanvendelige kopper til velkomst, klar kommunikation om ikke at smide ud
 - Kode til træningsrum: 0138
+- Lyd skal forbedres, Turbosound i stedet for idræts
 
 # Efter årsfesten
 

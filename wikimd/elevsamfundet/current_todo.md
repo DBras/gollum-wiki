@@ -12,13 +12,13 @@ title: Midlertidig ToDo-liste i Elevsamfundet
 - [ ] Hjemmeside:
     - [ ] Skal være oppe at køre før dimission (midt juni)
     - [ ] Der skal være ansøgningsskabelon til Elevsamfundet
-- [ ] Skriv til Christian om bar+mad
+- [x] Skriv til Christian om bar+mad
 - [x] Karo+Henrik skal spørges om inventarliste
     - [x] Karo
     - [x] Henrik
 - [ ] Reminder om årsfest omkring start juni
 - [ ] Mads og Nels skal hives fat i
-- [ ] Rikke og Emil skal sende ansøgninger
+- [x] Rikke og Emil skal sende ansøgninger
 - [ ] Post om næste møder:
     - [ ] Første møde i august 11-13
     - [ ] Næste september 22-24
@@ -33,7 +33,6 @@ title: Midlertidig ToDo-liste i Elevsamfundet
     - [ ] Toastpapir
     - [ ] Genanvendelige kopper
 - [ ] Oprydning i Dropbox
-- [ ] Lyd skal forbedres, Turbosound i stedet for idræts
 - [ ] Opdater planlægningslister
 
 # Beslutninger
@@ -48,3 +47,4 @@ title: Midlertidig ToDo-liste i Elevsamfundet
     - [ ] Måske noget med antal tilladte
     - [ ] Kroge til ballonport?
     - [ ] Book weekend hos Lasse
+    - [ ] Tag A-nøgle med
