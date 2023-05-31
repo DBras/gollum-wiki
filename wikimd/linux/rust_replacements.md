@@ -34,8 +34,8 @@ exa --long --sort=modified
 
 # fd
 
-Alternative to `find` with sensible (but opinionated) defaults, such as `fd
-PATTERN` as an alternative to `find -iname '*PATTERN'`.
+Alternative to `find` with sensible (but opinionated) defaults, such as 
+`fd PATTERN` as an alternative to `find -iname '*PATTERN'`.
 
 ```bash
 fd "string|regex"                      #
