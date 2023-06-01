@@ -19,10 +19,10 @@ title: Midlertidig ToDo-liste i Elevsamfundet
 - [ ] Reminder om årsfest omkring start juni
 - [ ] Mads og Nels skal hives fat i
 - [x] Rikke og Emil skal sende ansøgninger
-- [ ] Post om næste møder:
-    - [ ] Første møde i august 11-13
-    - [ ] Næste september 22-24
-    - [ ] Tilmeldingsfrist d. 18, så vi har overblik
+- [x] Post om næste møder:
+    - [x] Første møde i august 11-13
+    - [x] Næste september 22-24
+    - [x] Tilmeldingsfrist d. 18, så vi har overblik
 - [ ] Indkøb fra fx loppemarked:
     - [ ] ca. 18 sæt salt+peber
     - [ ] ca. 40 sæt holdere til fyrfadslys
