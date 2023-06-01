@@ -11,4 +11,5 @@ title: ToC
     - [yt-dlp](/linux/yt-dlp) 
 - [DTU](/Home#DTU)
 - [Elevsamfundet](/Home#elevsamfundet) 
+- [Hosting & AS](/Home#hosting-as) 
 - [Refile](/Home#refile)

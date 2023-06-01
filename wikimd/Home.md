@@ -22,9 +22,9 @@ title: Home - Gollum Wiki
 - [ToDo](elevsamfundet/current_todo) 
 - [Ansvarsområder](linkelevsamfundet/ansvar_2023) 
 
-# Hosting & AS
+# [Hosting & AS](hosting/index) 
 
-
+- [RIPE NCC Objects & AS](hosting/index#ripe-ncc-objects-as) 
 
 # Refile
 
