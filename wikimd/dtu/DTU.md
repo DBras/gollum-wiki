@@ -117,18 +117,33 @@ This course also had a final report & presentation.
 
 ### 10020
 
-### 34210
+### 34210 - Introduction to Digital Communication
+
+[Course book](34210_notes.pdf), [exam outlines](34210_outlines.pdf) 
+
+Assignments:
+[hjem1](34210_hjem1.pdf), 
+[hjem2](34210_hjem1.pdf), 
+[hjem3](34210_hjem1.pdf), 
+[hjem4](34210_hjem1.pdf) 
 
 ### 34229
 
 ### 34359
 
-### ML
+### ML - Machine Learning Special Course
+
+Special course run by Darko Zibar, dazi@dtu.dk. The only requirement was handing
+in the following exercises:
+
+[Back Propagation](ml_back_propagation.pdf), 
+[PAM](ml_pam.pdf), 
+[PyTorch PAM](ml_pytorch_pam.pdf) 
 
 # LaTeX
 
-- [Preamble](preamble) 
-- [Main file test](main) 
+- [Preamble](latex_preamble) 
+- [Main file test](latex_main) 
 
 A default folder structure can be initiated with the following command:
 

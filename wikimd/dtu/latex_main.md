@@ -2,6 +2,8 @@
 title: Main File Test
 ---
 
+<<Series("latex_")>>
+
 ```latex
 %! TEX root = main.tex
 

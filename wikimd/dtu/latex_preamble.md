@@ -2,6 +2,8 @@
 title: LaTeX Preamble
 ---
 
+<<Series("latex_")>>
+
 ```latex
 \documentclass[a4paper, \lang]{article}
 
