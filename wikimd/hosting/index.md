@@ -1,5 +1,5 @@
 ---
-title: Self-Hosting '&' AS
+title: "Self-Hosting & AS"
 ---
 
 Page for information about self hosted services, as well as all information
