@@ -8,7 +8,6 @@ def get_directories(wikidir: str):
     dirs = [p for p in wikidir_contents
             if path.isdir(p)
             and not p.endswith('/uploads')]
-    dirs += [wikidir]
     return dirs
 
 def read_lines_from_index(dir: str):
