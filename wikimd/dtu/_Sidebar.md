@@ -4,13 +4,13 @@ title: ToC
 
 # ToC
 
-- [Bash & Linux tools](/Home#bash-linux-tools)
-- [DTU](/Home#DTU)
-    - [E21](/dtu/DTU#e21) 
-    - [F22](/dtu/DTU#f22) 
-    - [E22](/dtu/DTU#e22) 
-    - [F23](/dtu/DTU#f23) 
-    - [LaTeX](/dtu/DTU#latex) 
-- [Elevsamfundet](/Home#elevsamfundet) 
-- [Hosting & AS](/Home#hosting-as) 
+- [Bash & Linux tools](/linux/Home)
+- [DTU](/dtu/Home)
+    - [E21](/dtu/Home#e21) 
+    - [F22](/dtu/Home#f22) 
+    - [E22](/dtu/Home#e22) 
+    - [F23](/dtu/Home#f23) 
+    - [LaTeX](/dtu/Home#latex) 
+- [Elevsamfundet](/elevsamfundet/Home) 
+- [Hosting & AS](/hosting/Home) 
 - [Refile](/Home#refile)

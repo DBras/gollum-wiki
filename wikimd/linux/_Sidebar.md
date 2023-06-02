@@ -4,12 +4,12 @@ title: ToC
 
 # ToC
 
-- [Bash & Linux tools](/Home#bash-linux-tools)
+- [Bash & Linux tools](/linux/Home)
     - [Miscellaneous commands & tools](/linux/misc_bash) 
     - [OCRmyPDF](/linux/OCRmyPDF) 
     - [Rewritten in Rust](/linux/rust_replacements) 
     - [yt-dlp](/linux/yt-dlp) 
-- [DTU](/Home#DTU)
-- [Elevsamfundet](/Home#elevsamfundet) 
-- [Hosting & AS](/Home#hosting-as) 
+- [DTU](/dtu/Home)
+- [Elevsamfundet](/elevsamfundet/Home) 
+- [Hosting & AS](/hosting/Home) 
 - [Refile](/Home#refile)

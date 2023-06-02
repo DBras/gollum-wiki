@@ -9,22 +9,22 @@ title: Home - Gollum Wiki
 - [Rewritten in Rust](linux/rust_replacements) 
 - [yt-dlp](linux/yt-dlp) 
 
-# [DTU](dtu/DTU)
+# [DTU](dtu/Home)
 
-- [E21](dtu/DTU#e21) 
-- [F22](dtu/DTU#f22) 
-- [E22](dtu/DTU#e22) 
-- [F23](dtu/DTU#f23) 
-- [LaTeX](dtu/DTU#latex) 
+- [E21](dtu/Home#e21) 
+- [F22](dtu/Home#f22) 
+- [E22](dtu/Home#e22) 
+- [F23](dtu/Home#f23) 
+- [LaTeX](dtu/Home#latex) 
 
-# [Elevsamfundet](elevsamfundet/index)
+# [Elevsamfundet](elevsamfundet/Home)
 
 - [ToDo](elevsamfundet/current_todo) 
-- [Ansvarsområder](linkelevsamfundet/ansvar_2023) 
+- [Ansvarsområder](elevsamfundet/ansvar_2023) 
 
-# [Hosting & AS](hosting/index) 
+# [Hosting & AS](hosting/Home) 
 
-- [RIPE NCC Objects & AS](hosting/index#ripe-ncc-objects-as) 
+- [RIPE NCC Objects & AS](hosting/Home#ripe-ncc-objects-as) 
 
 # Refile
 
