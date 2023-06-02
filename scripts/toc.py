@@ -23,10 +23,15 @@ def get_toc_h1(lines: list[str]):
               and lines[i-1] == lines[i+1] == '\n']
     return toc_h1
 
+def is_hlink(line: str):
+    return line[0] == '[' and line[-1] == ')' and '](' in line
+
 def main(wikidir: str):
     dirs = get_directories(wikidir)
-    indeces = [read_lines_from_index(d) for d in dirs]
-    tocs = [get_toc_h1(i) for i in indeces]
+    indeces = [read_lines_from_index(d)
+               for d in dirs]
+    tocs = {dir: get_toc_h1(idx)
+            for dir,idx in zip(dirs, indeces)}
     print(dirs)
     print(tocs)
 
