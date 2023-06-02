@@ -21,4 +21,4 @@ A set of tools written in Rust designed to replace standard bash tools, such as
 
 A fork of the well-known `youtube-dl`; a tool for downloading videos from a ton
 of different sites, such as [youtube](https://www.youtube.com) and
-[DRTV](https://www.dr.dk/drtv/)
+[DRTV](https://www.dr.dk/drtv/).

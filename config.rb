@@ -135,7 +135,7 @@
     #
     # Equivalent to --css
 
-    #css: true,
+    css: true,
 
     #-----------------------------------------------------------------------------
     # Parse and interpret emoji tags (e.g. :heart:) except when the leading colon
