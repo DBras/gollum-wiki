@@ -12,4 +12,3 @@ title: ToC
 - [DTU](/dtu/Home)
 - [Elevsamfundet](/elevsamfundet/Home) 
 - [Hosting & AS](/hosting/Home) 
-- [Refile](/Home#refile)

@@ -9,4 +9,3 @@ title: ToC
 - [Elevsamfundet](/elevsamfundet/Home) 
 - [Hosting & AS](/hosting/Home) 
     - [RIPE NCC](/hosting/Home#ripe-ncc-objects-as) 
-- [Refile](/Home#refile)

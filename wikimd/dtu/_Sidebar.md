@@ -13,4 +13,3 @@ title: ToC
     - [LaTeX](/dtu/Home#latex) 
 - [Elevsamfundet](/elevsamfundet/Home) 
 - [Hosting & AS](/hosting/Home) 
-- [Refile](/Home#refile)
