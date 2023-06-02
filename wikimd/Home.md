@@ -2,7 +2,7 @@
 title: Home - Gollum Wiki
 ---
 
-# Bash/Linux tools
+# [Bash/Linux tools](/linux/Home)
 
 - [Miscellaneous commands & tools](linux/misc_bash) 
 - [OCRmyPDF](linux/OCRmyPDF) 

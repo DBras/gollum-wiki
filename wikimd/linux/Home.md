@@ -2,12 +2,12 @@
 title: Bash and Linux Tools
 ---
 
-# Miscellaneous commands and tools
+# [Miscellaneous commands and tools](/linux/misc_bash)
 
-# OCRmyPDF
+# [OCRmyPDF](/linux/OCRmyPDF)
 
-# Rewritten in Rust
+# [Rewritten in Rust](/linux/rust_replacements)
 
-# yt-dlp
+# [yt-dlp](/linux/yt-dlp)
 
 
