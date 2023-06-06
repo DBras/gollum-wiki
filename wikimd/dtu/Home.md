@@ -152,3 +152,22 @@ alias beginlatex="mkdir img && cp ~/Dropbox/DTU/latex/preamble.tex . && cp
 ~/Dropbox/DTU/latex/img/DTU.eps img/DTU.eps && echo -e \"%! TEX root =
 main.tex\n\n\" > main.tex && nvim main.tex"
 ```
+
+# Course Planning
+
+[01410](https://kurser.dtu.dk/course/2023-2024/01410), 
+[02157](https://kurser.dtu.dk/course/2023-2024/02157), 
+[02170](https://kurser.dtu.dk/course/2023-2024/02170), 
+[02192](https://kurser.dtu.dk/course/2023-2024/02192), 
+[02193](https://kurser.dtu.dk/course/2023-2024/02193), 
+[02221](https://kurser.dtu.dk/course/2023-2024/02221), 
+[02234](https://kurser.dtu.dk/course/2023-2024/02234), 
+[02244](https://kurser.dtu.dk/course/2023-2024/02244), 
+[34315](https://kurser.dtu.dk/course/2023-2024/34315), 
+[34318](https://kurser.dtu.dk/course/2023-2024/34318), 
+[34352](https://kurser.dtu.dk/course/2023-2024/34352), 
+[34366](https://kurser.dtu.dk/course/2023-2024/34366), 
+[34368](https://kurser.dtu.dk/course/2023-2024/34368), 
+[34369](https://kurser.dtu.dk/course/2023-2024/34369), 
+[34370](https://kurser.dtu.dk/course/2023-2024/34370), 
+[34757](https://kurser.dtu.dk/course/2023-2024/34757)

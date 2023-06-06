@@ -25,3 +25,10 @@ Organisation, [ORG-DB231-RIPE](https://apps.db.ripe.net/db-web-ui/query?bflag=fa
 AS Set, [RIPE::AS198886:AS-ALL](https://apps.db.ripe.net/db-web-ui/query?bflag=false&dflag=false&rflag=true&searchtext=AS198886:AS-ALL&source=RIPE) 
 
 Note: the `RIPE::` prefix is not accepted as a search term in all DBs.
+
+# IP Allocations
+
+## `2a0e:8f02:2251::/48`, origin AS198886.
+
+- `route6`: origin AS198886
+- `inet6num`: netname `DBRAS-LABITAT`
